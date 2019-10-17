@@ -1,1 +1,2 @@
-# NYC-PROJECT1
+# Project_1
+Project Assignment 1
